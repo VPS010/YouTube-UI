@@ -1,6 +1,6 @@
 # YouTube Home Page UI Clone
 
-## A responsive UI clone of the latest YouTube home page UI, built using **Next.js** and **Tailwind CSS**. This project replicates the design and functionality of YouTube's interface, including the sidebar, video grid layout, and navigation bar.
+A responsive UI clone of the latest YouTube home page UI, built using **Next.js** and **Tailwind CSS**. This project replicates the design and functionality of YouTube's interface, including the sidebar, video grid layout, and navigation bar.
 
 ## Installation
 
